@@ -16,6 +16,7 @@ h2 {
 
 [lang~=linkit]{
     text-decoration: line-through;
+    text-align: center;
 }
 
 [class~='linkki']{
