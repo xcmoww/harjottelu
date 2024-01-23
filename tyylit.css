@@ -1,0 +1,29 @@
+h2 {
+    color: blueviolet;
+    font-family: 40px;
+}
+
+.sininen {
+    color: blue;
+    font-size: 40px;
+}
+
+#otsikko {
+    color: red;
+    font-size: 2.0em;
+
+}
+
+[lang~=linkit]{
+    text-decoration: line-through;
+}
+
+[class~='linkki']{
+    color: chartreuse;
+}
+[class~='testaus'] {
+    font-size: xx-large;
+}
+[href*="Koulujuttu"]{
+    color: crimson;
+}
